@@ -1,1 +1,53 @@
 /* Start coding here */
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.Header {
+    background-color: #92AABD;
+    box-sizing: border-box;
+    width: 100vw;
+    height: 120px;
+}
+.Content {
+    box-sizing: border-box;
+    margin-top: 52px;
+    margin-left: 55px;
+  
+
+}
+#welcome-word{
+   display: flex ;  
+   align-items: center;
+   justify-content: flex-start;
+   height: 150px;
+   padding-left: 55px;
+   padding-top: 0px;
+   font-size: 40px;
+   font-weight: 700;
+   text-align: left;
+   color: #183b56;
+
+}
+
+#Content1 ,#Content2 {
+    padding: 30px 20px 20px 20px ;
+    margin: 20px 0px 50px 0px;
+    width: 536px;
+    height: 321px;
+    background-color: #E4E9ED;
+    border: solid 2px black;    
+}
+h4 {
+    font-size: xx-large;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+p {
+    font-size: 16px
+
+}

@@ -1,1 +1,38 @@
 /* Start coding here */
+* {
+    margin-left: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.out4 {
+    
+    border: 16px solid lightgrey ;
+    width: 1770px;
+    height: 1499px;
+
+}
+.out3 {
+    display: block;
+    border: 16px solid black;
+    width: 1738;
+    height: 1467px
+  
+
+}
+.out2{
+    display: block;
+    border: 24px solid crimson;
+    width: 1706px;
+    height: 1435px;
+
+}
+.out1{
+    border: 24px solid khaki;
+    background-color: khaki;
+    padding-top: 30px;
+    font-size: 72px;
+    text-align: center;
+    width: 1658px;
+    height: 1387px;
+}
